@@ -1,6 +1,6 @@
 {
     "client_version"     : 50,
-    "client_repo_url"    : "https://github.com/AndyGrant/OpenBench",
+    "client_repo_url"    : "https://github.com/OmerFarukTutkun/OpenBench",
     "client_repo_ref"    : "master",
 
     "fastchess_min_version" : "1.8.1",
@@ -42,6 +42,7 @@
         "Bit-Genie",
         "BlackMarlin",
         "Demolito",
+        "Devre",
         "Drofa",
         "Equisetum",
         "Ethereal",
